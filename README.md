@@ -25,65 +25,49 @@ Step 6: Click "write" and confirm the transaction. You will then receive the cor
 ### Inputting data for address
 
 0x0
-
 [https://docs.google.com/spreadsheets/d/1QfRWot9ev3fFw02KHZncgsvXcdHZj7jOPa_DMyaqTyY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1QfRWot9ev3fFw02KHZncgsvXcdHZj7jOPa_DMyaqTyY/edit?usp=sharing)
 
 0x1
-
 [https://docs.google.com/spreadsheets/d/1eWvSPIXN1kOBqu_jVt4tO_iLe6cczt-HaQJjg4EB_Tc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1eWvSPIXN1kOBqu_jVt4tO_iLe6cczt-HaQJjg4EB_Tc/edit?usp=sharing)
 
 0x2
-
 [https://docs.google.com/spreadsheets/d/14_wMjeik1T-XaxlCN5iKT95-y8FlRrYY2IDUWReCy64/edit?usp=sharing](https://docs.google.com/spreadsheets/d/14_wMjeik1T-XaxlCN5iKT95-y8FlRrYY2IDUWReCy64/edit?usp=sharing)
 
 0x3
-
 [https://docs.google.com/spreadsheets/d/1PEtK_Mu8CFMuNTPHk7DkBYwrVMvCU4Npjn0HTDge_ow/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1PEtK_Mu8CFMuNTPHk7DkBYwrVMvCU4Npjn0HTDge_ow/edit?usp=sharing)
 
 0x4
-
 [https://docs.google.com/spreadsheets/d/1LdjZs4KE1M-cabao_OV62Gzj68DbUTPOWzg2oS3SyBo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LdjZs4KE1M-cabao_OV62Gzj68DbUTPOWzg2oS3SyBo/edit?usp=sharing)
 
 0x5
-
 [https://docs.google.com/spreadsheets/d/17WUp9ZqNjj0QD20glu5azd63AAGLtt0Q796MIn9LQEw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17WUp9ZqNjj0QD20glu5azd63AAGLtt0Q796MIn9LQEw/edit?usp=sharing)
 
 0x6
-
 [https://docs.google.com/spreadsheets/d/18jFEIDXB3YAQQTOw28GA9YJLogDOQGTyP5wHCz5INmM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/18jFEIDXB3YAQQTOw28GA9YJLogDOQGTyP5wHCz5INmM/edit?usp=sharing)
 
 0x7
-
 [https://docs.google.com/spreadsheets/d/1l0Yil085m5FmX9EtJ2mYLNBO9QREV9E4pdRvZWIv7b4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1l0Yil085m5FmX9EtJ2mYLNBO9QREV9E4pdRvZWIv7b4/edit?usp=sharing)
 
 0x8
-
 [https://docs.google.com/spreadsheets/d/1gWBxvNCpI8h3UqNyHxEy_mKaA2Tp_k0XRX1tvQyLRDE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1gWBxvNCpI8h3UqNyHxEy_mKaA2Tp_k0XRX1tvQyLRDE/edit?usp=sharing)
 
 0x9
-
 [https://docs.google.com/spreadsheets/d/1W-ibUlxrbxELqd73UgXsoUwdH3AA-6I1wyOgYg9N5HE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1W-ibUlxrbxELqd73UgXsoUwdH3AA-6I1wyOgYg9N5HE/edit?usp=sharing)
 
 0xa
-
 [https://docs.google.com/spreadsheets/d/1wE4qFX3Uiu_Y0atd0DwIsVcrzjg6iYmU0_kES9wExX8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1wE4qFX3Uiu_Y0atd0DwIsVcrzjg6iYmU0_kES9wExX8/edit?usp=sharing)
 
 0xb
-
 [https://docs.google.com/spreadsheets/d/1r0CG4cv-A2W3A9wG9bgIWP55NerFb0UjonW13TJ1nH0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1r0CG4cv-A2W3A9wG9bgIWP55NerFb0UjonW13TJ1nH0/edit?usp=sharing)
 
 0xc
-
 [https://docs.google.com/spreadsheets/d/1HY_Cf0Dnqmz5rsObrEy56NNOa37Br5M28AcjD1ZfNKU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1HY_Cf0Dnqmz5rsObrEy56NNOa37Br5M28AcjD1ZfNKU/edit?usp=sharing)
 
 0xd
-
 [https://docs.google.com/spreadsheets/d/1Wmy6g8nOs1KRz50ip-7cdohOZCgCT-PEFY-RYa4PMi4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Wmy6g8nOs1KRz50ip-7cdohOZCgCT-PEFY-RYa4PMi4/edit?usp=sharing)
 
 0xe
-
 [https://docs.google.com/spreadsheets/d/1t12yydZ2T-BF91ddVVkZc2Y0qG1wHF5moSgVm28-LH8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1t12yydZ2T-BF91ddVVkZc2Y0qG1wHF5moSgVm28-LH8/edit?usp=sharing)
 
 0xf
-
 [https://docs.google.com/spreadsheets/d/1qV_8YjmccVu0zaKVoAwgZKEotmKG7r69eE4jibytoeg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1qV_8YjmccVu0zaKVoAwgZKEotmKG7r69eE4jibytoeg/edit?usp=sharing)
