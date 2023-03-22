@@ -2,7 +2,7 @@
 
 When claim is available, follow steps  1-6
 
-Step 1: Based on the first three characters of your address, open the Google Sheet and find the corresponding index, account (address), amount, and proof information.
+Step 1: Based on the first three characters of your address, open the Google Sheet below and find the corresponding index, account (address), amount, and proof information.
 
 ![Untitled](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fced82e1f-d9dd-4905-b812-a9316059248e%2FUntitled.png?id=256bb77b-3721-4f21-b4f5-d3dbd15d08f9&table=block&spaceId=afea7efa-a915-4d36-91da-b64ee815ffd7&width=2000&userId=35ff73b9-08b2-40db-ad23-a7269fbaeffb&cache=v2)
 
