@@ -12,7 +12,7 @@ Step 3: Click "write contract".
 
 Step 4: Connect the wallet address you want to receive the airdrop.
 
-Step 5: Click "claim" and input the information from step 1
+Step 5: Click "claim" and input the information from step 1. (Please note that the amount is the quantity of your tokens * 10^18. Fill in the table completely according to the Google sheet)
 
 Step 6: Click "write" and confirm the transaction. You will then receive the corresponding amount of airdrop tokens.
 
