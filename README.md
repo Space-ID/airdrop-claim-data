@@ -18,6 +18,8 @@ Step 6: Click "write" and confirm the transaction. You will then receive the cor
 
 ![Untitled](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdf27fd08-d75d-4994-befe-e7fa0f5378b9%2FUntitled.png?id=5c2b1654-3e1a-43e9-8806-e3c84973ac8f&table=block&spaceId=afea7efa-a915-4d36-91da-b64ee815ffd7&width=2000&userId=35ff73b9-08b2-40db-ad23-a7269fbaeffb&cache=v2)
 
+
+
 ### Contract address
 
 [https://bscscan.com/address/0x046fcfb05d717851006c0f336d10afa3b7c3f58e](https://bscscan.com/address/0x046fcfb05d717851006c0f336d10afa3b7c3f58e#readContract)
