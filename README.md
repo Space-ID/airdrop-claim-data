@@ -20,6 +20,10 @@ Step 6: Click "write" and confirm the transaction. You will then receive the cor
 
 
 
+
+
+
+
 ### Contract address
 
 [https://bscscan.com/address/0x046fcfb05d717851006c0f336d10afa3b7c3f58e](https://bscscan.com/address/0x046fcfb05d717851006c0f336d10afa3b7c3f58e#readContract)
